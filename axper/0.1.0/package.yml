@@ -26,4 +26,4 @@ matches:
     replace: "բարի լոյս"
 
   - trigger: ":voch"
-    replace": "ոչ"
+    replace: "ոչ"
