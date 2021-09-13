@@ -1,0 +1,20 @@
+# axper
+
+name: axper
+parent: default
+
+matches:
+  - trigger: ":ayo"
+    replace": "այո"
+
+  - trigger: ":axper"
+    replace: "ախպեր"
+
+  - trigger: ":merci"
+    replace: "մերսի"
+
+  - trigger: ":parev"
+    replace: "բարեւ"
+
+  - trigger: ":voch"
+    replace": "ոչ"
