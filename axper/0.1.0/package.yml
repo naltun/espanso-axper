@@ -5,7 +5,7 @@ parent: default
 
 matches:
   - trigger: ":ayo"
-    replace": "այո"
+    replace: "այո"
 
   - trigger: ":axper"
     replace: "ախպեր"
