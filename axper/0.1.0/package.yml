@@ -10,11 +10,20 @@ matches:
   - trigger: ":axper"
     replace: "ախպեր"
 
+  - trigger: ":inchgachga"
+    replace: "Ի՞նչ կա չկա"
+
+  - trigger: ":kichme"
+    replace: "քիչ մը"
+
   - trigger: ":merci"
     replace: "մերսի"
 
   - trigger: ":parev"
     replace: "բարեւ"
+
+  - trigger: ":pariluis"
+    replace: "բարի լոյս"
 
   - trigger: ":voch"
     replace": "ոչ"
