@@ -10,14 +10,29 @@ matches:
   - trigger: ":axper"
     replace: "ախպեր"
 
+  - trigger: ":che"
+    replace": "չէ"
+
+  - trigger: ":eh"
+    replace: "է"
+
   - trigger: ":inchgachga"
     replace: "Ի՞նչ կա չկա"
+
+  - trigger: ":hedo"
+    replace: "հետո"
+
+  - trigger: ":hima"
+    replace: "Հիմա"
 
   - trigger: ":kichme"
     replace: "քիչ մը"
 
   - trigger: ":merci"
     replace: "մերսի"
+
+  - trigger: ":paits"
+    replace: "բայց"
 
   - trigger: ":parev"
     replace: "բարեւ"
