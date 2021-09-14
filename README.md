@@ -1,5 +1,7 @@
 # Axper
 
+[![asciicast](https://asciinema.org/a/2OlPRmFqECwwhSrGHXD7eWOw5.svg)](https://asciinema.org/a/2OlPRmFqECwwhSrGHXD7eWOw5)
+
 `axper` is an **espanso** package which expands common Armenian sayings and phrases, written
 in the Latin alphabet, into the Armenian alphabet.
 
