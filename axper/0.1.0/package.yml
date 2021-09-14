@@ -19,6 +19,9 @@ matches:
   - trigger: ":inchgachga"
     replace: "Ի՞նչ կա չկա"
 
+  - trigger: ":gam"
+    replace: "կամ"
+
   - trigger: ":hedo"
     replace: "հետո"
 
@@ -39,6 +42,9 @@ matches:
 
   - trigger: ":pariluis"
     replace: "բարի լոյս"
+
+  - trigger: ":teh"
+    replace: "թե"
 
   - trigger: ":voch"
     replace: "ոչ"
