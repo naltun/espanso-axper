@@ -40,6 +40,9 @@ matches:
   - trigger: ":parev"
     replace: "բարեւ"
 
+  - trigger: ":Parev"
+    replace: "Բարեւ"
+
   - trigger: ":pariluis"
     replace: "բարի լոյս"
 
