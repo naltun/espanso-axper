@@ -11,7 +11,7 @@ matches:
     replace: "ախպեր"
 
   - trigger: ":che"
-    replace": "չէ"
+    replace: "չէ"
 
   - trigger: ":eh"
     replace: "է"
